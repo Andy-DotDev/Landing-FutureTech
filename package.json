@@ -1,0 +1,23 @@
+{
+  "name": "futuretech",
+  "version": "1.0.0",
+  "description": "@Landing-FutureTech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "sass --watch ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andy-DotDev/Landing-FutureTech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andy-DotDev/Landing-FutureTech/issues"
+  },
+  "homepage": "https://github.com/Andy-DotDev/Landing-FutureTech#readme",
+  "devDependencies": {
+    "sass": "^1.101.0"
+  }
+}
